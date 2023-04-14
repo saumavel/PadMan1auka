@@ -1,0 +1,11 @@
+Laga klikk hljóð
+-prófa fade
+
+CSS:
+laga buttonPressed styleclass
+
+
+DONE:
+Laga Mouse CLicked efsta 8und
+Tengja CSS
+

@@ -1,0 +1,29 @@
+.oct1 {
+    -fx-background-color: #B2ABBF;
+}
+
+.oct2 {
+    -fx-background-color: #AEB3C9;
+}
+
+.oct3 {
+    -fx-background-color: #BFD5E2;
+}
+
+.oct4 {
+    -fx-background-color: #C7EBF0;
+}
+
+.button:hover {
+    -fx-border-color: #FFFFFF;
+}
+
+.buttonPressed {
+    -fx-box-shadow: 0 5px #666;
+    -fx-transform: translateY(4px);
+}
+
+#fxBorderPane {
+    -fx-padding: 10, 10, 10, 10;
+}
+
